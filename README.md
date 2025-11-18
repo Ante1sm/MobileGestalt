@@ -8,4 +8,4 @@
 https://github.com/straight-tamago/misaka26/releases
 
 # Final
-👉 Open the MobileGestalt app on your device, Load Plist and save it.
+👉 Open the MobileGestalt app on your device Load Plist and save it.
