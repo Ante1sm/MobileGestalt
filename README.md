@@ -1,5 +1,5 @@
 # MobileGestalt
-Sandbox and MobileGestalt exploit - Supported iOS 16.0 ~ 26.1 & 26.2 beta 1
+👉 Sandbox and MobileGestalt exploit - Supported iOS 16.0 ~ 26.1 & 26.2 beta 1
 
 # How to work
 👉 Install on your device MobileGestalt.ipa and respringapp.ipa using sideloading platform. (respringapp for restarting the device and is used as needed)
@@ -8,4 +8,4 @@ Sandbox and MobileGestalt exploit - Supported iOS 16.0 ~ 26.1 & 26.2 beta 1
 https://github.com/straight-tamago/misaka26/releases
 
 # Final
-Open the MobileGestalt app on your device, generate the Plist and save it.
+👉 Open the MobileGestalt app on your device, generate the Plist and save it.
