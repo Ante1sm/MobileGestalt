@@ -28,10 +28,3 @@ Warning: Do not attempt to manually edit this file unless you have a way to rest
 • Bootloops: If the syntax is wrong, the device may refuse to boot.
 • Broken Features: Enabling features not supported by hardware (like AOD on an LCD screen) can cause screen burn-in or rapid battery drain.
 • FaceID/Apple Pay Issues: Incorrectly changing device model identifiers can break Secure Enclave features like FaceID and Apple Pay.
-• System Instability: You may experience random resprings or app crashes.
-
-# How it is usually modified
-Users typically do not edit the raw XML/binary plist text manually anymore due to the complexity. Instead, they use exploits (like MacDirtyCow or KFD) wrapped in apps like:
-• Misaka
-• Cowabunga Lite (PC/Mac required)
-• Filza (File Manager)
