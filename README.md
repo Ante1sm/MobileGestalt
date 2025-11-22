@@ -20,11 +20,4 @@ Common modifications include:
 • Stage Manager: Enabling Stage Manager on older iPads that Apple officially restricted the feature from.
 • Always-On Display: Attempting to force AOD on non-Pro devices (often with mixed results regarding battery life).
 • Charge Limit: Enabling the 80% charging limit on older devices.
-• Shutter Sound: Disabling the mandatory camera shutter sound in regions where it is legally required (like Japan or South Korea).
-
-# The Risks (Read Before Touching)
-Modifying this file is highly risky. Because MobileGestalt is checked very early in the boot process, corrupting this file or inputting invalid values can lead to severe consequences.
-Warning: Do not attempt to manually edit this file unless you have a way to restore the original file or are prepared to restore your device to factory settings.
-• Bootloops: If the syntax is wrong, the device may refuse to boot.
-• Broken Features: Enabling features not supported by hardware (like AOD on an LCD screen) can cause screen burn-in or rapid battery drain.
-• FaceID/Apple Pay Issues: Incorrectly changing device model identifiers can break Secure Enclave features like FaceID and Apple Pay.
+• Shutter Sound: Disabling the mandatory camera shutter sound in regions where it is legally required (like Japan or South 
