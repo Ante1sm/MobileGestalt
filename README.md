@@ -10,14 +10,4 @@ When your iPhone or iPad boots up, it needs to know exactly what hardware featur
 
 # Location
 Typically, this file is found in the cached containers directory of the file system:
-/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/
-
-# Why is it a topic of interest
-Recently, this file has become the center of attention for the "customization" and jailbreak-adjacent communities (using tools like Misaka, Cowabunga, or Nugget).
-By modifying specific keys within com.apple.MobileGestalt.plist (specifically inside the CacheExtra dictionary), users can trick the OS into thinking the device is a different model or has features it wasn't meant to have.
-Common modifications include:
-• Dynamic Island: Enabling the Dynamic Island UI on older notched phones (e.g., iPhone 13).
-• Stage Manager: Enabling Stage Manager on older iPads that Apple officially restricted the feature from.
-• Always-On Display: Attempting to force AOD on non-Pro devices (often with mixed results regarding battery life).
-• Charge Limit: Enabling the 80% charging limit on older devices.
-• Shutter Sound: Disabling the mandatory camera shutter sound in regions where it is legally required (like Japan or South 
+/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/
